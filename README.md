@@ -5,3 +5,6 @@ I created a simple bank reconciliation app
 please install dependencies if you haven't: bash pip install pandas streamlit
 then run the streamlit app: bash streamlit run reconciliation_app.py
 i have 2 csv files you can download and then use it as a reconciliation exercises.
+
+or run from this site below here!
+https://reconciliationapppy-w6awhqn2rppdbfs4b77bbm.streamlit.app/
